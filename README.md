@@ -7,5 +7,5 @@ The project demonstrates how to easily use Spring Security with LDAP / Microsoft
 
 ### Regarding security 
 
-For the full guide to this project, see [https://www.pmandcode.com/spring-security-ldap-with-microsoft-active-directory/]()
+For the full guide to this project, see my blog post [https://www.pmandcode.com/spring-security-ldap-with-microsoft-active-directory/](https://www.pmandcode.com/spring-security-ldap-with-microsoft-active-directory/)
 
